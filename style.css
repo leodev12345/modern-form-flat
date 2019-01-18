@@ -1,0 +1,32 @@
+input{
+	margin-bottom:2%;
+	width:50%;
+	border-radius:0px;
+	border:2px solid green;
+	font-size:15px;
+	text-align:center;
+}
+
+#form{
+	background-color:white;
+	width:20%;
+	height:40%;
+	padding:2%;
+	margin-left:39%;
+	margin-top:15%;
+}
+
+body{
+	background-color:green;
+	color:green;
+	text-align:center;
+}
+
+button{
+	border-radius:0px;
+	background-color:green;
+	color:white;
+	border:none;
+	font-size:20px;
+	margin-top:2%;
+}
